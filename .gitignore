@@ -1,0 +1,12 @@
+env/
+outfiles/
+*.out
+dbc_mico_logs/
+logs/
+*.yml
+atari/__pycache__/
+dm_control_local/utils/__pycache__/
+dm_control_local/__pycache__/
+testlogs/
+wandb/
+*.err
